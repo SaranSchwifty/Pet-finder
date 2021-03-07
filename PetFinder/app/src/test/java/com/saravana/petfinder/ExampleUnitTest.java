@@ -1,4 +1,4 @@
-package com.saravana.pet_finder;
+package com.saravana.petfinder;
 
 import org.junit.Test;
 

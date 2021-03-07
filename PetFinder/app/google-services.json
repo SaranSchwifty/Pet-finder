@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370195293608",
+    "firebase_url": "https://petfinder-407b1.firebaseio.com",
+    "project_id": "petfinder-407b1",
+    "storage_bucket": "petfinder-407b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370195293608:android:55fbacf663d5391585299d",
+        "android_client_info": {
+          "package_name": "com.saravana.petfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370195293608-i2q8qe5b7ruvnacnq9fbqkvf93bomkk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saravana.petfinder",
+            "certificate_hash": "499a5c60c5e613942d40b5688d9878f6ff3e731a"
+          }
+        },
+        {
+          "client_id": "370195293608-pqfstajasilaaucvl0qbd452gn220vhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-XgAI-ihXuRfJaQzJoGY5Uo9g1DM5qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370195293608-pqfstajasilaaucvl0qbd452gn220vhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
